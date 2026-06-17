@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+
+# Vite build
+dist/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# TypeScript cache
+*.tsbuildinfo
